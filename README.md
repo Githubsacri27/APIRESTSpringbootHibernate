@@ -1,3 +1,2 @@
-Práctica de estudio con Springboot, Hibernate y JWT Session.
-
+Este repositorio contiene una práctica de estudio que consiste en una API REST desarrollada en Spring Boot con el uso de Hibernate y JSON Web Token (JWT) para la autenticación y autorización de usuarios. Además, se utilizó Bootstrap (plantilla Admin) para la implementación de una interfaz de usuario administrativa intuitiva y fácil de usar. La API REST es escalable, y sigue los principios RESTful para una comunicación clara y consistente entre el cliente y el servidor. 
 ![image](https://user-images.githubusercontent.com/99100069/225013909-219463e2-a904-448f-a866-5d3c5f6994db.png)
